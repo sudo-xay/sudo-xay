@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Xavier
-- 👀 I’m interested in all things linux
-- 🌱 I’m currently learning Linux System Administration
-- 💞️ I’m looking to be hired onto your Unix/Linux Team
+- 👀 I’m interested in all things Cloud and Linux related
+- 🌱 I’m currently learning AZ-900 (In Progress) → AZ-104 Next → AZ-500 After
+- 💞️ I’m looking to be hired onto your Cloud team
 - 📫 How to reach me: xavier@xavierphillips.tech
-- 🌎 Here is a link to my website where you can download my resume https://xavierphillips.tech/
